@@ -1,0 +1,5 @@
+L=(3,7,4,1)
+print(F"List,L={L}")
+print(f"L[0]={L[0]}")
+print(f"L[3]={L[3]}")
+print(f"L[-1]={L[-1]}")
